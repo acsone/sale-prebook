@@ -1,0 +1,1 @@
+odoo-addon-sale-stock-prebook @ git+https://github.com/OCA/sale-prebook.git@refs/pull/6/head#subdirectory=setup/sale_stock_prebook
